@@ -48,7 +48,7 @@
 #define OFFSET_ACTOR_VALUE                              0x016833B0UL//1.3.1.34 
 #define OFFSET_OPK                                      0x0297333DUL//1.3.1.34 
 #define OFFSET_AV_REGEN                                 0x0168376FUL//1.3.1.34  
-#define OFFSET_SERVER_POSITION                          0x01478A05UL//1.3.1.34  
+#define OFFSET_SERVER_POSITION                          0x01477605UL//1.3.1.34  
 #define OFFSET_ENTITY_ID                                0x050DDF00UL//1.3.1.34 
 #define OFFSET_NUKE_CODE                                0x05A25F38UL//1.3.1.34 
 #define OFFSET_NPC_LIST                                 0x058E31B8UL//1.3.1.34 
